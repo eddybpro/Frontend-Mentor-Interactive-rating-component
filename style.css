@@ -164,6 +164,10 @@ footer .attribution a{
     text-decoration: none;
 }
 
+footer .attribution a:hover{
+    color: var(--orange);
+}
+
 @media  screen and (max-width:686px) {
     main{
         margin: 0 .5rem;
